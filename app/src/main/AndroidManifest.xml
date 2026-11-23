@@ -4,7 +4,7 @@
     <application
         android:allowBackup="true"
         android:label="ass"
-        android:theme="@android:style/Theme.Material.Light">
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
         <activity
             android:name=".MainActivity"
             android:exported="true">
