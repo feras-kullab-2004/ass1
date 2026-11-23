@@ -3,7 +3,7 @@
     package="com.example.exam">
     <application
         android:allowBackup="true"
-        android:label="ExamApp"
+        android:label="ass"
         android:theme="@android:style/Theme.Material.Light">
         <activity
             android:name=".MainActivity"
